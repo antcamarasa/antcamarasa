@@ -59,7 +59,7 @@ Ce n'est pas le chemin le plus rapide. C'est celui qui dure.
 
 ## 🛠️ Ce que je construis
 
-📚 **[Software Engineering](https://github.com/antcamarasa/software-engineering)** : mon parcours d'informatique fondamentale, un livre par bloc, du code à chaque étape.
+📚 **[Software Engineering](https://github.com/antcamarasa/software-engineering)** : mon parcours d'informatique fondamentale, un livre par bloc, je recode tout.
 
 | | Bloc | Statut |
 |---|---|---|
