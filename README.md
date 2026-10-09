@@ -14,7 +14,7 @@
 
 > **FACT** : Les frameworks changent tous les 6 mois. 
 
-> **L'ILLUSION** : on n'aurait donc plus besoin de rien maîtriser.
+> **L'ILLUSION** : On n'a donc plus besoin de rien maîtriser.
 
 <h3 align="center">Mais.</h3>
 
