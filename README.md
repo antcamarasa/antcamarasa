@@ -18,7 +18,7 @@
 
 <h3 align="center">Mais.</h3>
 
-Écrire du code n'a jamais été le métier. C'était la partie facile.
+Écrire du code n'a jamais été le métier.
 
 | L'IA sait faire | L'ingénieur doit comprendre |
 |---|---|
