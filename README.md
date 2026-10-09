@@ -6,8 +6,6 @@
 
 ---
 
-## ⚡ Ma vision
-
 > **FACT** : Aujourd'hui, un LLM code mieux que la plupart des développeurs.
 
 > **FACT** : Générer une API Spring prend dix secondes.
@@ -45,7 +43,7 @@ Et cette promesse n'est pas nouvelle. Chaque abstraction l'a déjà faite :
 
 On ne m'embauchera pas pour taper du code. On m'embauchera pour savoir ce qu'il fait quand il tourne, pour relire, juger et corriger ce que la machine produit, et pour comprendre le système en entier, de la mémoire jusqu'au réseau.
 
-<p align="center"><b>Short cut makes long delay.</b></p>
+<h3 align="center"><b>⚡ Short cut makes long delay ⚡</b></h3>
 
 ---
 
