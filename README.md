@@ -1,10 +1,5 @@
 ## 👋 Antoine Camarasa
 
-💼 Développeur en alternance · Java & Angular
-🧠 En construction : les fondations de l'ingénierie logicielle
-
----
-
 ### ⚡⚡ Short cut makes long delay. ⚡⚡
 
 **FACT #1** : un framework change tous les trois ans. Un pointeur, c'est un pointeur depuis 1972.
